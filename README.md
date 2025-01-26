@@ -4,7 +4,7 @@ Advanced 3D Bouncing Ball Simulation
 
 هذا المشروع هو عبارة عن محاكاة فيزيائية ثلاثية الأبعاد لكرة ترتد داخل مجسم هندسي يُعرف باسم "rhombicosidodecahedron" (شكل هندسي متعدد الأوجه) باستخدام مكتبة Three.js للرسوميات ثلاثية الأبعاد و stats.js لعرض إحصائيات الأداء. تم تصميم المحاكاة لتكون تفاعلية، مما يسمح للمستخدم بالتحكم في سرعة الكرة، والجاذبية، وسرعة دوران المجسم الهندسي.
 ذكاء اصطناعي العرب ⚡️: 
-https://t.me/AI4Arabs
+- https://t.me/AI4Arabs
 ![image](https://github.com/user-attachments/assets/3447b26b-ec04-405a-b86b-f5ba6f6c49b1)
 
 
